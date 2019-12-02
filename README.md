@@ -1,4 +1,4 @@
-# angela
+# Angela
 Hi,
 
 Welcome!
